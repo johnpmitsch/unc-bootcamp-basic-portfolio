@@ -1,0 +1,10 @@
+html {
+  font-family: 'Helvetica Neue';
+}
+h1 {
+  font-size: 30px;
+}
+
+.bold {
+  font-weight: bold;
+}
